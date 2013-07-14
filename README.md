@@ -20,10 +20,10 @@ Los estilos los podéis cambiar en la hoja de estilos CSS vuestra. Sólo tienen 
 <pre>
    .paginator        { display: block; margin-top:20px; text-align: center; width: 100%; height:40px; clear:both }
    .paginator a      { background:#f0f0f0; color:#444; border:1px solid #e8e8e8; height:20px; width:20px; display:inline-block }
-   #paginator_first  { background:url('../images/action.first.png') no-repeat scroll 2px center #f0f0f0; }
-   #paginator_before { background:url('../images/action.before.png') no-repeat scroll 2px center #f0f0f0; }
-   #paginator_next   { background:url('../images/action.next.png') no-repeat scroll 2px center #f0f0f0; }
-   #paginator_last   { background:url('../images/action.last.png') no-repeat scroll 2px center #f0f0f0; }
+   #paginator_first  { background:url('images/action.first.png') no-repeat scroll 2px center #f0f0f0; }
+   #paginator_before { background:url('images/action.before.png') no-repeat scroll 2px center #f0f0f0; }
+   #paginator_next   { background:url('images/action.next.png') no-repeat scroll 2px center #f0f0f0; }
+   #paginator_last   { background:url('images/action.last.png') no-repeat scroll 2px center #f0f0f0; }
 </pre>
 
 Y para insertar los controles de páginas anteriores y siguientes deberíamos escribir la siguiente línea:
