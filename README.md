@@ -1,5 +1,6 @@
 Paginator
 =========
+Esta utilidad también está explicada en http://www.islavisual.com/articulos/desarrollo_web/paginator-clase-para-paginar-resultados-en-php
 
 Clase para paginar resultados en PHP
 
